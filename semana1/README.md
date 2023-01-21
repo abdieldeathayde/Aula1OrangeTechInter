@@ -1,7 +1,7 @@
 # Verifica Boletim Estudantil
 
-## Nesse projeto foi utilizado Java básico para treinar a base de programação em java e como utilizar o método Scanner. 
-## Os desafios foram deixar os numeros de ponto flutuante com três casas ou quatro após a vírgula.
+## Nesse projeto foi utilizado Java básico para treinar a base de programação em Java. 
+## Os desafios foram passar de um repositório para outro mais correto pois estava ocorrendo alguns conflitos.
 
 
 ## Getting Started
